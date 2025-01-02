@@ -1,0 +1,21 @@
+{
+  "build": "py312hd77b12b_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "python >=3.12,<3.13.0a0",
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "fn": "kiwisolver-1.4.4-py312hd77b12b_0.conda",
+  "license": "BSD-3-Clause",
+  "md5": "3a1c546b9b59828473382bd9a89e7d34",
+  "name": "kiwisolver",
+  "sha256": "c23613dc27c4e436db4d19b03b36b9ecd5ab60bcbd5d4bc69b11185a42090665",
+  "size": 55454,
+  "subdir": "win-64",
+  "timestamp": 1699476466000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/kiwisolver-1.4.4-py312hd77b12b_0.conda",
+  "version": "1.4.4"
+}
